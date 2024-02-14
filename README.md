@@ -1,2 +1,5 @@
 # CODSOFT
-The 3 tasks of Level 1 for my CodSoft Internship
+Level 1 projects for my CodSoft Internship.
+Landing Page using HTML, CSS.
+Personal Portfolio using HTML, CSS.
+Calculator using HTML, CSS and JavaScript
